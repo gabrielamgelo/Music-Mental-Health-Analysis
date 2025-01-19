@@ -112,13 +112,14 @@ Seniors have a lower median of every condition compared to the other age groups.
 
 ### **Total primary streaming service usage by age**
 
-![Captura de tela 2025-01-16 213142](https://github.com/user-attachments/assets/8dd8b087-8e22-4548-ae18-6ac41110935c)
+![image](https://github.com/user-attachments/assets/b74e8970-3aeb-424c-8961-b6fc97312c20)
+
 
 ### **Distribution of Music Genre Listening Frequencies**
 
 The most listened to genre is rock, with 45.1% of the participants declaring they listen to it very frequently, and only 12.1% who never listen to it. Gospel is genre that is the least listened to overall, with only 1.9% of participants who listen to it very frequently, and 72% who never listen to it, followed by latin, with 4.3% who very frequently listen to it, and 60% who never listen to it.
 
-![Captura de tela 2025-01-16 213142](https://github.com/user-attachments/assets/ac6c563d-2bda-4ec3-bf34-a9cbf14ca484)
+![image](https://github.com/user-attachments/assets/fd3743c0-bb1d-4b12-a380-ccf891d14d4f)
 
 ### **Correlation between Age, Hours per day, Anxiety, Depression, Insomnia, and OCD**
 

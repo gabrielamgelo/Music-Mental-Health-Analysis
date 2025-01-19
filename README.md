@@ -70,19 +70,19 @@ OCD:           2.6
 Insomnia:      3.7
 Depression:    4.8
 
-**Favorite genres where anxiety is above the median**
+### **Favorite genres where anxiety is above the median**
 
 Country, Folk, Hip hop, Jazz, K pop, Lofi, and Rock.
 
-**Favorite genres where OCD is above the median**
+### **Favorite genres where OCD is above the median**
 
 Latin and Rap.
 
-**Favorite genres where insomnia is above the median**
+### **Favorite genres where insomnia is above the median**
 
 EDM, Folk, Gospel, Jazz, Latin, Lofi, Metal, Rock, and Video game music.
 
-**Favorite genres where depression is above the median**
+### **Favorite genres where depression is above the median**
 
 EDM, Hip hop, Lofi, Metal, and Rock.
 

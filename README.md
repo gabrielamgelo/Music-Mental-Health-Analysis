@@ -150,4 +150,4 @@ Where the median is significantly less than the overall median:
 
 ![Captura de tela 2025-01-19 154358](https://github.com/user-attachments/assets/0e3cbb7a-744b-4cfc-8445-30cccdde27a2)
 
-
+The results of the Mann-Whitney U test do not suggest that these genres cause mental health issues or conditions to worsen or improve. Instead, they may indicate that participants who already exhibit higher median values for these conditions tend to prefer these genres more due to their mental state. For example, individuals with higher anxiety levels might be drawn to music with faster beats, while those experiencing depression might gravitate toward calmer music. It is important to note that showing a correlation does not equate to proving causation. 

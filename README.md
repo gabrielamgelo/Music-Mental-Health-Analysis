@@ -14,9 +14,9 @@ In the dataset, respondents answer generic questions focused on musical backgrou
     Scipy.stats: Used to perform hypothesis tests
     Jupyter Notebook: Used or interactive data exploration.
 
-    The repository contains:
+The repository contains:
 
-• mxmh_survey_results.csv.csv: The dataset used.
+• mxmh_survey_results.csv: The dataset used.
 
 • Notebook.ipynb: A jupyter notebook containing the full analysis.
 

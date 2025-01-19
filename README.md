@@ -73,3 +73,81 @@ Depression:    4.8
 **Favorite genres where anxiety is above the median**
 
 Country, Folk, Hip hop, Jazz, K pop, Lofi, and Rock.
+
+**Favorite genres where OCD is above the median**
+
+Latin and Rap.
+
+**Favorite genres where insomnia is above the median**
+
+EDM, Folk, Gospel, Jazz, Latin, Lofi, Metal, Rock, and Video game music.
+
+**Favorite genres where depression is above the median**
+
+EDM, Hip hop, Lofi, Metal, and Rock.
+
+**Instrumentalists conditons's means**
+
+![Image](https://github.com/user-attachments/assets/8ad5c943-6976-41af-ad67-aedbb143ee06)
+
+**Composer conditons's means**
+
+![Image](https://github.com/user-attachments/assets/1c17beaa-fef0-4145-af4c-c7bf0d356d5d)
+
+**Concentration of age and hours per day**
+
+![image](https://github.com/user-attachments/assets/e3f70c6e-45f5-4b07-ae95-9d5b823fbb06)
+
+This graph shows that the highest concentration in hours per day is between 0-5h, and the highest concentration of age is between 14-25.
+
+**Total participants of each age group**
+
+![image](https://github.com/user-attachments/assets/0bec8970-1a33-4065-918b-f87476e4dd67)
+
+**Age group by contitions's medians**
+
+![Captura de tela 2025-01-19 153556](https://github.com/user-attachments/assets/107e0602-b502-4c40-b3dc-eb87c29c113a)
+
+Seniors have a lower median of every condition compared to the other age groups. However this could be statistically not accurate, since seniors are such a low percentage between participants, demanding hypothesis testing to see if the differences are actually relevant.
+
+**Total primary streaming service usage by age**
+
+![Captura de tela 2025-01-16 213142](https://github.com/user-attachments/assets/8dd8b087-8e22-4548-ae18-6ac41110935c)
+
+**Distribution of Music Genre Listening Frequencies**
+
+![Captura de tela 2025-01-16 213142](https://github.com/user-attachments/assets/ac6c563d-2bda-4ec3-bf34-a9cbf14ca484)
+
+The most listened to genre is rock, with 45.1% of the participants declaring they listen to it very frequently, and only 12.1% who never listen to it. Gospel is genre that is the least listened to overall, with only 1.9% of participants who listen to it very frequently, and 72% who never listen to it, followed by latin, with 4.3% who very frequently listen to it, and 60% who never listen to it.
+
+**Correlation between Age, Hours per day, Anxiety, Depression, Insomnia, and OCD**
+
+![image](https://github.com/user-attachments/assets/9d14f194-7a01-4fb6-8b8c-632e4ac05eed)
+
+This shows that there is a correlation between depression and anxiety (0.52), depression and insomnia (0.38) anxiety and ocd (0.34), anxiety and insomnia (0.28), insomnia and OCD (0.20), and depression and OCD (0.19). This means that these variables are dependent, which changes the types of hypothesis tests we can do with the data.
+
+**Correlation between frequency and conditions**
+
+![image](https://github.com/user-attachments/assets/232fa57a-d486-4d19-b3d0-7a44316c5224)
+
+We can see that there is a strong correlation between listening to hip Hop and Rap, Hip Hop and R&B, R&B and Rap, and Rock and Metal. That makes sense since these genres can be very similar sometimes.
+
+**Spread of Insomnia, OCD, Depression and Anxiety**
+
+![image](https://github.com/user-attachments/assets/73b9753f-7e1c-402b-b2f3-b8525c4c211f)
+
+A shapiro-wilk normality test was conducted to check if the distributions are normal, since the p-values are significantly below the significance level of 0.05, we conclude that none of the distributions follow a normal distribution. Therefore, the median is a more suitable statistic for comparison, and nonparametric tests are the appropriate choice for hypothesis testing.
+
+**What conditions have a statiscally higher median on each favorite genre**
+
+A Mann-Whitney U test was conducted to determine which favorite genres exhibit values higher than the overall median condition and to assess whether the difference is statistically significant. Here are the results: 
+
+Where the median is significantly greater than the overall median: 
+
+![Captura de tela 2025-01-19 154327](https://github.com/user-attachments/assets/a4830a83-a865-4bb4-89bd-5cbf2f047d54)
+
+Where the median is significantly less than the overall median:
+
+![Captura de tela 2025-01-19 154358](https://github.com/user-attachments/assets/0e3cbb7a-744b-4cfc-8445-30cccdde27a2)
+
+

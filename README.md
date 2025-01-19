@@ -102,7 +102,7 @@ This graph shows that the highest concentration in hours per day is between 0-5h
 
 ### **Total participants of each age group**
 
-![image](https://github.com/user-attachments/assets/0bec8970-1a33-4065-918b-f87476e4dd67)
+![image](https://github.com/user-attachments/assets/90287f25-5d91-4248-8140-25cdbb0a5719)
 
 ### **Age group by contitions's medians**
 

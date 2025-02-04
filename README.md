@@ -2,7 +2,23 @@
 
 As a musician and someone who listens and loves to music a lot, I always questioned myself about the effects some genres had on my overall thoughts and mental health. I came across [this](https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results/data) dataset on Kaggle and thought it would be a perfect opportunity to conduct data analysis and uncover insights on the subject. This project aims to explore the relationship between music genres and mental health issues. Using Python, I will load, transform, and analyze the data, create visualizations, and perform hypothesis testing to determine which genres are statistically associated with higher levels of anxiety, OCD, insomnia, and depression.
 
-In the dataset, respondents answer generic questions focused on musical background and listening habits. Respondents rank how often they listen to 16 music genres, where they can select: Never, Rarely, Sometimes, and Very frequently.Respondents rank Anxiety, Depression, Insomnia, and OCD on a scale of 0 to 10, where: 0 - I do not experience this. 10 - I experience this regularly, constantly/or to an extreme.
+In the dataset, respondents answer generic questions focused on musical background and listening habits. Respondents rank how often they listen to 16 music genres, where they can select: Never, Rarely, Sometimes, and Very frequently. Respondents rank Anxiety, Depression, Insomnia, and OCD on a scale of 0 to 10, where: 0 - I do not experience this. 10 - I experience this regularly, constantly/or to an extreme.
+
+The main insights: 
+
+- he majority of participants answered that Rock is their favorite genre, followed by Pop, Metal, Classical and Video game music, in the top 5. The least favorite genre is Latin, followed by Gospel, Lofi, Jazz and K-pop.
+
+- Seniors have a lower median of every condition compared to the other age groups. However this could be statistically not accurate, since seniors are such a low percentage between participants, demanding hypothesis testing to see if the differences are actually relevant.
+
+- The favorite genres that display a statiscaly significant higher level of anxiety are: Folk, Pop, and Rock.
+
+- Rap listeners display a higher level of OCD.
+
+- LoFi and Metal listeners experience a higher level of insomnia than the overall median
+
+- Hip Hop, LoFi and Rock listeners experience significantly higher levels of depression.
+
+The results of this analysis do not suggest that these genres cause mental health issues or conditions to worsen or improve. Instead, they may indicate that participants who already exhibit higher median values for these conditions tend to prefer these genres more due to their mental state. For example, individuals with higher anxiety levels might be drawn to music with faster beats, while those experiencing depression might gravitate toward calmer music. It is important to note that showing a correlation does not equate to proving causation. 
 
 ## Technologies Used:
 
@@ -25,8 +41,6 @@ The repository contains:
 ## 1- Exploratory Data Analysis:
 
 First, the dataset was loaded and checked for inconsistent or missing values. A large number of missing values were found on the BPM column, they were replaced using the grouped median BPM of each genre, because the BPM values don't follow a normal distribution, hence the use of the median. Other missing values were present in the dataset but in insignificant numbers. These were removed from the dataframe to avoid affecting the overall analysis.
-
-### Insights:
 
 ### **Distribution of Favorite Music Genres**
 
@@ -150,7 +164,5 @@ A Mann-Whitney U test was conducted to determine which favorite genres exhibit v
 ### Where the median is significantly less than the overall median:
 
 ![Captura de tela 2025-01-19 154358](https://github.com/user-attachments/assets/0e3cbb7a-744b-4cfc-8445-30cccdde27a2)
-
-The results of this analysis do not suggest that these genres cause mental health issues or conditions to worsen or improve. Instead, they may indicate that participants who already exhibit higher median values for these conditions tend to prefer these genres more due to their mental state. For example, individuals with higher anxiety levels might be drawn to music with faster beats, while those experiencing depression might gravitate toward calmer music. It is important to note that showing a correlation does not equate to proving causation. 
 
 To infer causation between music genres and mental health issues, we would require a much larger dataset, a broader range of variables, and more extensive research about the participants's lifestyles. However, we can clearly identify correlations between mental health conditions and the preferences for different genres of music.

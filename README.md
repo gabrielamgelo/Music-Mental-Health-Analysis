@@ -4,7 +4,7 @@ As a musician and someone who listens and loves to music a lot, I always questio
 
 In the dataset, respondents answer generic questions focused on musical background and listening habits. Respondents rank how often they listen to 16 music genres, where they can select: Never, Rarely, Sometimes, and Very frequently. Respondents rank Anxiety, Depression, Insomnia, and OCD on a scale of 0 to 10, where: 0 - I do not experience this. 10 - I experience this regularly, constantly/or to an extreme.
 
-The main insights: 
+Main insights: 
 
 - he majority of participants answered that Rock is their favorite genre, followed by Pop, Metal, Classical and Video game music, in the top 5. The least favorite genre is Latin, followed by Gospel, Lofi, Jazz and K-pop.
 
